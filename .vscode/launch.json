@@ -7,8 +7,8 @@
         {
             "type": "pwa-chrome",
             "request": "launch",
-            "name": "Div.HTML",
-            "file": "/Users/shivani/Desktop/Shivani/Project/Practice coding/HTML/Div.HTML"
+            "name": "Style.HTML",
+            "file": "/Users/shivani/Desktop/Shivani/Project/Practice coding/HTML/Style.html"
         }
     ]
 }
